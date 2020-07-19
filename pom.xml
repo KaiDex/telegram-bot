@@ -70,7 +70,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>ru.interview.application.Application</mainClass>
+                    <mainClass>wheres.my.money.bitch.app.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
